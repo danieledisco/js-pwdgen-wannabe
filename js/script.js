@@ -32,7 +32,7 @@ const passwd = user_name + user_surname + user_favorite_color + "23"
 console.log("La password generata è " + passwd);
 
 /*
- * Componenti per la Fase 1
+ * Componenti per la Fase 2
  *  - Variabili
  *  - document
  *  - getElementById
